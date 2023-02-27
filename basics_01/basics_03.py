@@ -4,6 +4,6 @@ a = 22
 b = x + y + a
 print(b)
 
-s = b / 3
+s=b/3
 print(s)
 
